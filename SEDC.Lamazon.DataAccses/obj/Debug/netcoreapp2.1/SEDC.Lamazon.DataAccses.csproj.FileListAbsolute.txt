@@ -1,0 +1,12 @@
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamazon.DataAccses\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccses.deps.json
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamazon.DataAccses\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccses.dll
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamazon.DataAccses\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccses.csprojAssemblyReference.cache
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamazon.DataAccses\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccses.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamazon.DataAccses\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccses.AssemblyInfoInputs.cache
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamazon.DataAccses\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccses.AssemblyInfo.cs
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamazon.DataAccses\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccses.pdb
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamazon.DataAccses\bin\Debug\netcoreapp2.1\SEDC.Lamzaon.Domain.dll
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamazon.DataAccses\bin\Debug\netcoreapp2.1\SEDC.Lamzaon.Domain.pdb
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamazon.DataAccses\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccses.csproj.CopyComplete
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamazon.DataAccses\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccses.dll
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamazon.DataAccses\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccses.pdb

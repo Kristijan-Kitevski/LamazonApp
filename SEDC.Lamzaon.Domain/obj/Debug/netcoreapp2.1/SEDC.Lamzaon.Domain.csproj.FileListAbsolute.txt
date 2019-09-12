@@ -1,0 +1,9 @@
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamzaon.Domain\bin\Debug\netcoreapp2.1\SEDC.Lamzaon.Domain.deps.json
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamzaon.Domain\bin\Debug\netcoreapp2.1\SEDC.Lamzaon.Domain.dll
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamzaon.Domain\bin\Debug\netcoreapp2.1\SEDC.Lamzaon.Domain.pdb
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamzaon.Domain\obj\Debug\netcoreapp2.1\SEDC.Lamzaon.Domain.csprojAssemblyReference.cache
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamzaon.Domain\obj\Debug\netcoreapp2.1\SEDC.Lamzaon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamzaon.Domain\obj\Debug\netcoreapp2.1\SEDC.Lamzaon.Domain.AssemblyInfoInputs.cache
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamzaon.Domain\obj\Debug\netcoreapp2.1\SEDC.Lamzaon.Domain.AssemblyInfo.cs
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamzaon.Domain\obj\Debug\netcoreapp2.1\SEDC.Lamzaon.Domain.dll
+C:\Users\Kristijan.kitevski\source\repos\LamazonAPP\LamazonAPP\SEDC.Lamzaon.Domain\obj\Debug\netcoreapp2.1\SEDC.Lamzaon.Domain.pdb

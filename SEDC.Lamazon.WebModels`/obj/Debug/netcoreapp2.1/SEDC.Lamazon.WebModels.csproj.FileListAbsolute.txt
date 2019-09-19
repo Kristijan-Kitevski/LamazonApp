@@ -1,0 +1,8 @@
+C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.WebModels`\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.deps.json
+C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.WebModels`\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.dll
+C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.WebModels`\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.pdb
+C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.WebModels`\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.WebModels`\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.AssemblyInfoInputs.cache
+C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.WebModels`\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.AssemblyInfo.cs
+C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.WebModels`\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.dll
+C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.WebModels`\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.pdb

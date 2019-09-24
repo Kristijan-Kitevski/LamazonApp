@@ -14,3 +14,19 @@ C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\
 C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.csproj.CopyComplete
 C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.dll
 C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.pdb
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.csprojAssemblyReference.cache
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.AssemblyInfoInputs.cache
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.AssemblyInfo.cs
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.dll
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.pdb
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Services.deps.json
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Services.dll
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Services.pdb
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.dll
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.dll
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.dll
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.pdb
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.pdb
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.pdb
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.csproj.CopyComplete

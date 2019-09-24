@@ -1,0 +1,18 @@
+﻿@model List<SEDC.Lamazon.WebModels_.ViewModels.ProductViewModel>
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h2>Products</h2>
+
+
+
+@foreach (var product in Model)
+{
+   
+        <ul>
+            <li>@product.Name</li>
+        </ul>
+
+   
+}

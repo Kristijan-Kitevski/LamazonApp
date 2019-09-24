@@ -10,3 +10,15 @@ C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\
 C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.csproj.CopyComplete
 C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.dll
 C:\Users\Kristijan.kitevski\Desktop\git clone\sedc7-11-1-practical-aspnetmvc\g1\LamazonApp\SEDC.LamazonApp\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.pdb
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.deps.json
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.dll
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.pdb
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.dll
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp2.1\SEDC.Lamazon.Domain.pdb
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.csprojAssemblyReference.cache
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.AssemblyInfo.cs
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.csproj.CopyComplete
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.dll
+C:\Users\Kristijan.kitevski\Desktop\my github repo\LamazonApp\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp2.1\SEDC.Lamazon.DataAccess.pdb

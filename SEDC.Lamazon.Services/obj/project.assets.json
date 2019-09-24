@@ -4428,11 +4428,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristijan.kitevski\\Desktop\\git clone\\sedc7-11-1-practical-aspnetmvc\\g1\\LamazonApp\\SEDC.LamazonApp\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Kristijan.kitevski\\Desktop\\my github repo\\LamazonApp\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj",
       "projectName": "SEDC.Lamazon.Services",
-      "projectPath": "C:\\Users\\Kristijan.kitevski\\Desktop\\git clone\\sedc7-11-1-practical-aspnetmvc\\g1\\LamazonApp\\SEDC.LamazonApp\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj",
+      "projectPath": "C:\\Users\\Kristijan.kitevski\\Desktop\\my github repo\\LamazonApp\\SEDC.Lamazon.Services\\SEDC.Lamazon.Services.csproj",
       "packagesPath": "C:\\Users\\Kristijan.kitevski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristijan.kitevski\\Desktop\\git clone\\sedc7-11-1-practical-aspnetmvc\\g1\\LamazonApp\\SEDC.LamazonApp\\SEDC.Lamazon.Services\\obj\\",
+      "outputPath": "C:\\Users\\Kristijan.kitevski\\Desktop\\my github repo\\LamazonApp\\SEDC.Lamazon.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4451,14 +4451,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Kristijan.kitevski\\Desktop\\git clone\\sedc7-11-1-practical-aspnetmvc\\g1\\LamazonApp\\SEDC.LamazonApp\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Kristijan.kitevski\\Desktop\\git clone\\sedc7-11-1-practical-aspnetmvc\\g1\\LamazonApp\\SEDC.LamazonApp\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj"
+            "C:\\Users\\Kristijan.kitevski\\Desktop\\my github repo\\LamazonApp\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Kristijan.kitevski\\Desktop\\my github repo\\LamazonApp\\SEDC.Lamazon.DataAccess\\SEDC.Lamazon.DataAccess.csproj"
             },
-            "C:\\Users\\Kristijan.kitevski\\Desktop\\git clone\\sedc7-11-1-practical-aspnetmvc\\g1\\LamazonApp\\SEDC.LamazonApp\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj": {
-              "projectPath": "C:\\Users\\Kristijan.kitevski\\Desktop\\git clone\\sedc7-11-1-practical-aspnetmvc\\g1\\LamazonApp\\SEDC.LamazonApp\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj"
+            "C:\\Users\\Kristijan.kitevski\\Desktop\\my github repo\\LamazonApp\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj": {
+              "projectPath": "C:\\Users\\Kristijan.kitevski\\Desktop\\my github repo\\LamazonApp\\SEDC.Lamazon.Domain\\SEDC.Lamazon.Domain.csproj"
             },
-            "C:\\Users\\Kristijan.kitevski\\Desktop\\git clone\\sedc7-11-1-practical-aspnetmvc\\g1\\LamazonApp\\SEDC.LamazonApp\\SEDC.Lamazon.WebModels`\\SEDC.Lamazon.WebModels.csproj": {
-              "projectPath": "C:\\Users\\Kristijan.kitevski\\Desktop\\git clone\\sedc7-11-1-practical-aspnetmvc\\g1\\LamazonApp\\SEDC.LamazonApp\\SEDC.Lamazon.WebModels`\\SEDC.Lamazon.WebModels.csproj"
+            "C:\\Users\\Kristijan.kitevski\\Desktop\\my github repo\\LamazonApp\\SEDC.Lamazon.WebModels`\\SEDC.Lamazon.WebModels.csproj": {
+              "projectPath": "C:\\Users\\Kristijan.kitevski\\Desktop\\my github repo\\LamazonApp\\SEDC.Lamazon.WebModels`\\SEDC.Lamazon.WebModels.csproj"
             }
           }
         }

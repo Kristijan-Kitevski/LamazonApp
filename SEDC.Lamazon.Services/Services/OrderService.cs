@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using SEDC.Lamazon.DataAccess.Interfaces;
 using SEDC.Lamazon.Domain.Models;
+using SEDC.Lamazon.Domain.Models.Enums;
 using SEDC.Lamazon.Services.Interfaces;
 using SEDC.Lamazon.WebModels_.Enums;
 using SEDC.Lamazon.WebModels_.ViewModels;
@@ -34,7 +35,7 @@ namespace SEDC.Lamazon.Services.Services
             Product product = _productRepository.GetById(productId);
             Order order = _orderRepository.GetById(orderId);
             User used = _userRepository.GetById(userId);
-            order.ProductOrders.Add(
+            order.ProductOrders.ToList().Add(
                 new ProductOrder()
                 {
                     Product = product ,
@@ -43,9 +44,21 @@ namespace SEDC.Lamazon.Services.Services
             return _orderRepository.Update(order);
         }
 
-        public int ChangeStatus(int orderId, StatusTypeViewModel status)
+        public int ChangeStatus(int orderId, string userId, StatusTypeViewModel status)
         {
-            throw new NotImplementedException();
+            Order order = _orderRepository.GetById(orderId);
+            User user = _userRepository.GetById(userId);
+            order.Status = (StatusType)status;
+            if (status==StatusTypeViewModel.Processing)
+            {
+                _orderRepository.Insert(new Order()
+                {
+                    User = user,
+                    Status = StatusType.Init,
+
+                }); 
+            }
+            return _orderRepository.Update(order);
         }
 
         public int CreateOrder(OrderViewModel order, string userId)

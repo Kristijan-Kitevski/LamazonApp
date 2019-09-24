@@ -1,8 +1,10 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using SEDC.Lamazon.Domain;
 using SEDC.Lamazon.Domain.Models;
 using SEDC.Lamazon.Domain.Models.Enums;
+using SEDC.Lamazon.Models.Domain;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -45,11 +47,9 @@ namespace SEDC.Lamazon.DataAccess
                 .HasForeignKey(po => po.ProductId);
 
             modelBuilder.Entity<Order>()
-               .HasOne(o => o.Invoice)
-               .WithOne(i => i.Order)
-               .HasForeignKey<Invoice>(po => po.OrderId);
-                
-
+                .HasOne(x => x.Invoice)
+                .WithOne(x => x.Order)
+                .HasForeignKey<Invoice>(x => x.OrderId);
             //Data Seed
 
             // SEED THE SUPPLIER ACCOUNT AND ROLES
